@@ -93,6 +93,6 @@
 
 사전과제를 진행하시는 데 있어 궁금한 점이 있으신 분들은 오픈 카톡방
 
-(https://open.kakao.com/o/gbvdioXb)에서 언제든지 부담 없이 질문 부탁드립니다
+ https://open.kakao.com/o/gbvdioXb 에서 언제든지 부담 없이 질문 부탁드립니다
 
 Django 운영진이 친절하게 답변해드리겠습니다!
